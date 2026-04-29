@@ -1,0 +1,9 @@
+stage: classif_full
+mode: 3D
+classif_model: densenet121
+spatial_size_3d: [224, 224, 32]
+classif_batch_size: 8
+lr: 3e-4
+epochs: 500
+patience: 100
+seed: 42

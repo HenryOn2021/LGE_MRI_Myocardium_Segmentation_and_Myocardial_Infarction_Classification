@@ -1,0 +1,8 @@
+stage: seg_train
+mode: 3D
+train_bs: 8
+val_bs: 2
+roi_3d: [224, 224, 18]
+spacing_3d: [1.0, 1.0, 8.0]
+epochs: 500
+n_folds: 5
