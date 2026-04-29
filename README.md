@@ -1,8 +1,8 @@
-# LGE Cardiac MRI AI Pipeline
+# Neural Network Tools for Automatic Identification of Abnormalities in Late Gadolinium-Enhanced Cardiac MRI
 
-Industry-facing research repository for **Late Gadolinium Enhancement (LGE) cardiac MRI segmentation and binary myocardial infarction (MI) classification**.
+Research repository for **Late Gadolinium Enhancement (LGE) cardiac MRI segmentation and binary myocardial infarction (MI) classification**.
 
-This project was developed from a PhD research pipeline using the public EMIDEC dataset and an in-house Imperial/NHS dataset. It demonstrates a reproducible medical imaging workflow covering data preparation, segmentation, classification, cross-validation, ensemble inference, and standardised metric reporting.
+This project was developed from a PhD research pipeline using the public EMIDEC dataset and an in-house NHS dataset. It demonstrates a reproducible medical imaging workflow covering data preparation, segmentation, classification, cross-validation, ensemble inference, and standardised metric reporting.
 
 > **Research use only.** This repository is not a certified medical device and is not intended for clinical deployment.
 
