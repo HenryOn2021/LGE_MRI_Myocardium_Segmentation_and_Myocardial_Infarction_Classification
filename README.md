@@ -208,25 +208,3 @@ folds:           5
 ```
 
 ---
-
-## Why This Repository Is Portfolio-Ready
-
-This repository highlights skills relevant to medical imaging AI and production-oriented ML engineering:
-
-- Modular Python project structure.
-- Unified command-line interface.
-- Reproducible cross-validation and hold-out testing.
-- Multi-model experimentation.
-- Standardised metric and figure generation.
-- Separation of source code, configuration, data documentation, and outputs.
-- Clear exclusion of private data, trained weights, and generated artefacts.
-
----
-
-## Citation
-
-If using this repository academically, please cite the associated PhD thesis work:
-
-```text
-Henry On. PhD Thesis, Imperial College London. Cardiac MRI AI for LGE segmentation and MI classification.
-```
