@@ -122,7 +122,7 @@ def _run_classification_2d(args, classif_mode: str) -> None:
 
 def _run_classification_3d(args, classif_mode: str) -> None:
     """Call the original 3D classification script through its parser-compatible CLI."""
-    import LGE_Classification_test5_3D as classif_3d
+    import LGE_Classification_3D as classif_3d
 
     argv: List[str] = [
         "LGE_Classification_test5_3D.py",
