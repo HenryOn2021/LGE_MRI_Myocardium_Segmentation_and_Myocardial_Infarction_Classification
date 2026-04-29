@@ -1,0 +1,26 @@
+name: lge-ai
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - tqdm
+  - pyyaml
+  - pip:
+      - torch
+      - torchvision
+      - monai
+      - captum
+      - SimpleITK
+      - nibabel
+      - xlsxwriter
+      - openpyxl
