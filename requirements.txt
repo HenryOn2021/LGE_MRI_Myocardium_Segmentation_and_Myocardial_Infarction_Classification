@@ -1,0 +1,29 @@
+# Core deep learning
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Medical imaging / deep learning pipeline
+monai>=1.3.0
+SimpleITK>=2.2.0
+nibabel>=5.0.0
+
+# Scientific computing
+numpy>=1.23.0
+scipy>=1.9.0
+pandas>=1.5.0
+scikit-learn>=1.2.0
+
+# Metrics, plotting, and reporting
+matplotlib>=3.6.0
+seaborn>=0.12.0
+openpyxl>=3.1.0
+xlsxwriter>=3.0.0
+
+# Utilities
+tqdm>=4.64.0
+PyYAML>=6.0
+joblib>=1.2.0
+
+# Optional: experiment tracking / notebooks
+tensorboard>=2.12.0
+jupyter>=1.0.0
