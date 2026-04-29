@@ -38,7 +38,7 @@ This project was developed from a PhD research pipeline using the public EMIDEC 
 ├── segmentation_myo.py             # Segmentation training
 ├── segmentation_inference_myo.py   # Segmentation inference/evaluation
 ├── LGE_Classification_2D.py        # 2D MI classification model zoo
-├── LGE_Classification_test5_3D.py  # 3D MI classification model zoo
+├── LGE_Classification_3D.py        # 3D MI classification model zoo
 ├── transforms.py                   # Transform utilities
 ├── utils.py                        # Common utilities
 ├── configs/                        # Example reproducible configs
